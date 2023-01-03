@@ -6,9 +6,9 @@ const nextConfig = {
 module.exports = {
   nextConfig,
   images:{
-    domains:['links.papareact.com'],
+    domains:["links.papareact.com"],
   },
   env: {
-    mapbox_key: 'pk.eyJ1IjoiYXBwbGV1Y3NkIiwiYSI6ImNsY2ZpdjZ2azIzNGQzcG4yYXo3NWJsNjYifQ.pULvjtICSgki5B_X2ygeHA',
+    mapbox_key: "pk.eyJ1IjoiYXBwbGV1Y3NkIiwiYSI6ImNsY2ZpdjZ2azIzNGQzcG4yYXo3NWJsNjYifQ.pULvjtICSgki5B_X2ygeHA",
   },
 }
